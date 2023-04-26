@@ -2,6 +2,8 @@
 
 Website: https://monerointegrations.com
 
-Helping Desk: https://support.monerointegrations.com
+Helping Desk: https://monerointegrations.com/support.html
 
-If you notice any weird behavior, please report it.
+## Helpful Links
+* [Open a new ticket](https://monerointegrations.com/support.html)
+* [Send us an e-mail](mailto:helpdesk@monerointegrations.com)
